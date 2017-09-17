@@ -1,7 +1,5 @@
 #!/bin/bash
 set -o nounset
-set -o errexit
-set -o pipefail
 
 # based on http://forum.xbmc.org/showthread.php?tid=172801&pid=1500080#pid1500080
 
